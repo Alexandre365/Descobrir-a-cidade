@@ -1,0 +1,67 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-color: rgb(236, 242, 247);
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+main{
+    width: 700px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 8px rgba(173, 173, 173, 0.507);
+}
+main div{
+    width: 100%;
+}
+form{
+    padding: 10px 0px ;
+    width: 100%;
+}
+label{
+    color: rgb(139, 138, 138);
+}
+input{
+    margin: 5px 0px;
+    padding: 10px;
+    width: 100%;
+    border: 2px solid #6837D1;
+    border-radius: 5px;
+}
+h1{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.txt{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.Card{
+    width: 100%;
+    padding: 10px;
+    border:2px solid #6837D1;
+    border-radius: 5px;
+}
+.Card div{
+    display: flex;
+    justify-content: space-between;
+}
+.Card h2{
+    font-size: 16px;
+    padding: 5px 0px;
+}
+.Card p{
+    width: 100%;
+    font-size: 18px;
+    color: rgb(71, 71, 71);
+}
